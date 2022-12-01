@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Adrian</h1>
 <h3 align="center">A passionate medical doctor and data scientist from Mexico</h3>
 
-- 👯 I’m looking to collaborate on **health data science projects**
+- I’m looking to collaborate on **health data science projects**
 
-- 📫 How to reach me **adrian.aguilera@protonmail.com**
+- You can reach me at: **adrian.aguilera@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
